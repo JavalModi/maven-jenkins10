@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register for training - Javal Modi From Gujarat</h1>
-    <p>Deploy using Docker with Javal Modi</p>
+    <p>Deploy using Docker</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
