@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for training - Javal Modi</h1>
+    <h1>Register for training - Javal Modi From Gujarat</h1>
     <p>Deploy using Docker with Javal Modi</p>
     <hr>
      
