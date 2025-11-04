@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for training - Javal Modi Deploy using Jenkins and pipeline.</h1>
+    <h1>Register for training - Javal Modi Deploy using Jenkins & PIPE-line</h1>
     <p>Deploy using Jenkins</p>
     <hr>
      
