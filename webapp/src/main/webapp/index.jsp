@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for training - Javal Modi deploy & build using jenkins....</h1>
+    <h1>Register for training - Javal Modi deploy & build using Docker</h1>
     <p>Deploy using Jenkins</p>
     <hr>
      
