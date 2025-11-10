@@ -1,1 +1,21 @@
+pipeline{
+    agent any
+    stages{
+        stage('Dwonload'){
+            steps{
+                echo 'Download Code from Github...'
+                git branch: 'main', url: 'https://github.com/JavalModi/maven-jenkins10.git'
+            }
+        }
+        stage('Build'){
+            steps{
+                echo 'Building Docker Image pushing to Docker Hub...'
+                sh '''docker build -t javalmodi/java-application:v$BUILD_NUMBER
+                docker tag javalmodi/java-application:v$BUILD_NUMBER javalmodi/java-application:latest
+                docker push javalmodi/java-application:v$BUILD_NUMBER
+                docker push javalmodi/java-application:latest'''
 
+            }
+        }
+    }
+}
