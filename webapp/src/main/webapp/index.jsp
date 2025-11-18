@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Javal Modi deploy & build using Jenkins with PIPELINE and user is Javal Modi</h1>
+    <h1>Javal Modi deploy & build using Jenkins with Pipeline and user is Javal Modi</h1>
     <p>Deploy using Jenkins</p>
     <hr>
      
