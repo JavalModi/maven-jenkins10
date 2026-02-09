@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Javal Modi deploy & build using Jenkins with Pipeline and user is Javal Modi and use of docker Date :9-2-26 </h1>
+    <h1>Javal Modi deploy & build using Jenkins with Pipeline and user is Javal Modi and use of docker Date : 9-2-26 </h1>
     <p>Deploy using Jenkins</p>
     <hr>
      
